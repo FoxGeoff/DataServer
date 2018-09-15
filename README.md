@@ -30,3 +30,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Install the In-memory Web API package from npm
 * ```npm install angular-in-memory-web-api --save```
+
+## Check Add in-memory.service
+
+## Heroes and HTTP
+
+## Check: Add hero service
