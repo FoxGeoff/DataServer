@@ -36,3 +36,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Heroes and HTTP
 
 ## Check: Add hero service
+
+## Check: Add message service
+* https://angular.io/tutorial/toh-pt4#create-the-messageservice
+* 
