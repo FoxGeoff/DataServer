@@ -42,3 +42,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Check: Inject message into hero service
 
+## Check: List Heros with component
+

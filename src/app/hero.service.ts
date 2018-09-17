@@ -8,7 +8,7 @@ import { Hero } from './hero';
   providedIn: 'root'
 })
 export class HeroService {
-
+  //private heroes: Hero[] =[];
   private heroesUrl = 'api/heroes';  // URL to web api
 
   constructor(
